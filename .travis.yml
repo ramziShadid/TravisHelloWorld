@@ -11,6 +11,6 @@ xcode_project: TravisHelloWorld.xcodeproj # path to your xcodeproj folder
 xcode_scheme: TravisHelloWorld
 
 script:
-- xcodebuild -project TravisHelloWorld.xcodeproj -scheme TravisHelloWorld -sdk iphonesimulator
+- xcodebuild -project TravisHelloWorld.xcodeproj -sdk iphonesimulator
 
 # - bundle exec rake build
