@@ -10,5 +10,5 @@ xcode_sdk: iphonesimulator10.3
 xcode_project: TravisHelloWorld.xcodeproj # path to your xcodeproj folder
 xcode_scheme: TravisHelloWorld
 
-script:
-- bundle exec rake build
+# script:
+# - bundle exec rake build
